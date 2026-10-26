@@ -1,17 +1,17 @@
 
 package Test;
 
+import java.time.Duration;
+
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.Test;
-import java.time.Duration;
 
-
+import Assertion.Assertion;
 import Pages.BrowserWindowsPage;
 import Pages.NewTabPage;
-import Assertion.Assertion;
 
 public class BrowserWindowsTest {
 
@@ -123,5 +123,12 @@ public class BrowserWindowsTest {
     newTabPage.switchToParentTab(parentTab);
 
     driver.quit();
+
     }
+
+
+
+
+
+    
 }
