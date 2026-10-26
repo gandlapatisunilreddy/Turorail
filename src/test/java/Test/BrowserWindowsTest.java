@@ -123,5 +123,6 @@ public class BrowserWindowsTest {
     newTabPage.switchToParentTab(parentTab);
 
     driver.quit();
+    
     }
 }
