@@ -1,0 +1,4 @@
+Pages\BrowserWindowsPage.class
+Assertion\Assertion.class
+Pages\NewTabPage.class
+Test\BrowserWindowsTest.class

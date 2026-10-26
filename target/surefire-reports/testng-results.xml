@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-10-26T18:29:16 IST" name="Surefire suite" finished-at="2026-10-26T18:29:41 IST" duration-ms="25000">
+    <groups>
+    </groups>
+    <test started-at="2026-10-26T18:29:16 IST" name="Surefire test" finished-at="2026-10-26T18:29:41 IST" duration-ms="25000">
+      <class name="Test.BrowserWindowsTest">
+        <test-method signature="verifyNewTabAndParentTab()[pri:1, instance:Test.BrowserWindowsTest@37918c79]" started-at="2026-10-26T18:29:16 IST" name="verifyNewTabAndParentTab" finished-at="2026-10-26T18:29:22 IST" duration-ms="5796" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNewTabAndParentTab -->
+        <test-method signature="verifyNewWindowAndParentWindow()[pri:2, instance:Test.BrowserWindowsTest@37918c79]" started-at="2026-10-26T18:29:22 IST" name="verifyNewWindowAndParentWindow" finished-at="2026-10-26T18:29:25 IST" duration-ms="3313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNewWindowAndParentWindow -->
+        <test-method signature="verifyAlertTextAndAcceptAlert()[pri:3, instance:Test.BrowserWindowsTest@37918c79]" started-at="2026-10-26T18:29:25 IST" name="verifyAlertTextAndAcceptAlert" finished-at="2026-10-26T18:29:28 IST" duration-ms="2810" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAlertTextAndAcceptAlert -->
+        <test-method signature="verifyDelayedAlertTextAndAcceptAlert()[pri:4, instance:Test.BrowserWindowsTest@37918c79]" started-at="2026-10-26T18:29:28 IST" name="verifyDelayedAlertTextAndAcceptAlert" finished-at="2026-10-26T18:29:36 IST" duration-ms="8575" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDelayedAlertTextAndAcceptAlert -->
+        <test-method signature="verifySeleniumTutorialTab()[pri:5, instance:Test.BrowserWindowsTest@37918c79]" started-at="2026-10-26T18:29:36 IST" name="verifySeleniumTutorialTab" finished-at="2026-10-26T18:29:41 IST" duration-ms="4454" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySeleniumTutorialTab -->
+      </class> <!-- Test.BrowserWindowsTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
